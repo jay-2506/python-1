@@ -1,0 +1,5 @@
+my_list=["Jay","Namra","Bhargav"]
+
+my_list.pop(2)
+my_list.remove("Jay")
+print(my_list)
